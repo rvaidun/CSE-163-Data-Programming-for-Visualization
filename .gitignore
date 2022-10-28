@@ -3,5 +3,5 @@ dipti_assignment/*
 
 
 .DS_Store
-.vscode/
+*/.vscode/*
 
