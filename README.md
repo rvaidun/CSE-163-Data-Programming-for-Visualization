@@ -10,3 +10,5 @@ This repository contains all my work from CSE 163, Data Programming for Visualiz
 The Repository starts with Assignment 3 since the first two assignments were pretty simple.
 ## Projects
 - [Assignment 3](HW3/)
+- [Assignment 4](HW4/)
+- [Assignment 5](HW5/)
