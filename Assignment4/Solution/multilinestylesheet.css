@@ -1,0 +1,13 @@
+.wrapper {
+  margin: auto;
+  width: 1440px;
+}
+
+html {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
