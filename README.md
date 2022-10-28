@@ -1,4 +1,6 @@
 # CSE 163 - Data Programming for Visualization
+Rahul Vaidun
+rvaidun@ucsc.edu
 
 ## Overview
 
